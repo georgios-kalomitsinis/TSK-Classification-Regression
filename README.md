@@ -91,6 +91,8 @@ In both parts, we have calculated the values of the following metrics:
 
 The results of the above investigations regression task are presented [here](https://github.com/georgios-kalomitsinis/TSK-Classification-Regression/tree/main/Regression). 
 
+## License
+This project is licensed under the [MIT License](https://github.com/georgios-kalomitsinis/TSK-Classification-Regression/blob/main/LICENSE).
 
 
 
